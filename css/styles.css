@@ -69,13 +69,13 @@ fieldset {
   height: 385px;
 }
 
-/*input[type="radio"]{
-  display:inline-block;
-  margin-right:-15px;
-  margin-left:30px;
-
+input[type="radio"] {
+  display: inline-block;
+  margin-right: -15px;
+  margin-left: 30px;
 }
-#nt_mikey{
+
+/*#nt_mikey{
   margin-left:59px;
 }
 .fav_Ninja{
