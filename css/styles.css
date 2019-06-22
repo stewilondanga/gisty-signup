@@ -83,11 +83,11 @@ input[type="radio"] {
   margin: 20px;
 }
 
-/*.section_signup{
-  margin-top:21%;
-
+.section_signup {
+  margin-top: 21%;
 }
-.section_personal{
+
+/*.section_personal{
   border-style:groove;
   border-radius:15px;
   width:450px;
