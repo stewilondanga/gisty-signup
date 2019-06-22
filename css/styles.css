@@ -3,9 +3,10 @@
 body {
   background: #DAE2F8;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #D6A4A4, #DAE2F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  /*
+  background: -webkit-linear-gradient(to right, #D6A4A4, #DAE2F8);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #D6A4A4, #DAE2F8);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 /*
@@ -32,9 +33,9 @@ body {
   margin-right:180px;
   font-family: Poppins;
   background: #215f00; /* fallback for old browsers */
-  /*background: -webkit-linear-gradient(to right, #215f00, #e4e4d9); /* Chrome 10-25, Safari 5.1-6 */
-  /*background: linear-gradient(to right, #215f00, #e4e4d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  /*
+/*background: -webkit-linear-gradient(to right, #215f00, #e4e4d9); /* Chrome 10-25, Safari 5.1-6 */
+/*background: linear-gradient(to right, #215f00, #e4e4d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+/*
 }
 li{
   list-style-type:none;
@@ -53,7 +54,7 @@ fieldset{
   width:370px;
   height:330px;
 /*  margin: 0% 40%; */
-  /*
+/*
   margin:20px 20px 20px 20px;
  box-shadow: 0 0 25px #aaaaaa;
   border-radius:15px;
