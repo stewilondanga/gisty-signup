@@ -102,11 +102,12 @@ input[type="radio"] {
   margin-top: 30px;
 }
 
-/*label{
+label {
   padding: 15px;
-   margin: 15px 5px 22px 10px;
+  margin: 15px 5px 22px 10px;
 }
-h1{
+
+/*h1{
   margin-left:45%;
 
 }
