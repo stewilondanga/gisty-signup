@@ -98,10 +98,11 @@ input[type="radio"] {
   margin-left: -170px;
 }
 
-/*#signup2{
-  margin-top:30px;
+#signup2 {
+  margin-top: 30px;
 }
-label{
+
+/*label{
   padding: 15px;
    margin: 15px 5px 22px 10px;
 }
