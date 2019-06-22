@@ -37,12 +37,13 @@ body {
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-/*li{
-  list-style-type:none;
-  display:inline;
-  float:left;
+li {
+  list-style-type: none;
+  display: inline;
+  float: left;
 }
-input[type="text"],input[type="password"],input[type="email"],.select-field__menu,.button {
+
+/*input[type="text"],input[type="password"],input[type="email"],.select-field__menu,.button {
     width: 75%;
     padding: 15px;
    margin: 15px 22px 10px;
