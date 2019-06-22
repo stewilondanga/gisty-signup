@@ -61,16 +61,15 @@ fieldset {
   border-radius: 15px;
 }
 
-/*.section_fav {
+.section_fav {
   border-style: groove;
   margin: 0% 50%;
-  border-radius:15px;
-  width:450px;
-  height:385px;
-
-
+  border-radius: 15px;
+  width: 450px;
+  height: 385px;
 }
-input[type="radio"]{
+
+/*input[type="radio"]{
   display:inline-block;
   margin-right:-15px;
   margin-left:30px;
