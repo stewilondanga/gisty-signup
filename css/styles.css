@@ -79,11 +79,11 @@ input[type="radio"] {
   margin-left: 59px;
 }
 
-/*.fav_Ninja{
- margin:20px;
-
+.fav_Ninja {
+  margin: 20px;
 }
-.section_signup{
+
+/*.section_signup{
   margin-top:21%;
 
 }
