@@ -52,11 +52,11 @@ input[type="text"], input[type="password"], input[type="email"], .select-field__
   background: #f1f1f1;
 }
 
-/*fieldset{
-  width:370px;
-  height:330px;
-/*  margin: 0% 40%; */
-/*
+fieldset {
+  width: 370px;
+  height: 330px;
+  /*  margin: 0% 40%; */
+  /*
   margin:20px 20px 20px 20px;
  box-shadow: 0 0 25px #aaaaaa;
   border-radius:15px;
