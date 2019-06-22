@@ -110,14 +110,14 @@ h1 {
   margin-left: 45%;
 }
 
-/*.button{
-  font-family:Poppins;
-  font-size:16px;
-  color:blue;
-  background-color:#B0DAB9;
+.button {
+  font-family: Poppins;
+  font-size: 16px;
+  color: blue;
+  background-color: #B0DAB9;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
