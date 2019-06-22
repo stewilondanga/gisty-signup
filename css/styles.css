@@ -87,13 +87,13 @@ input[type="radio"] {
   margin-top: 21%;
 }
 
-/*.section_personal{
-  border-style:groove;
-  border-radius:15px;
-  width:450px;
-
+.section_personal {
+  border-style: groove;
+  border-radius: 15px;
+  width: 450px;
 }
-#signup1{
+
+/*#signup1{
 
   margin-top:60px;
   margin-left:-170px;
